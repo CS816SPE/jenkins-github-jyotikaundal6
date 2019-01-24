@@ -4,6 +4,13 @@
 - Whenever you commit to your repository, the Jenkins job should run automatically.
 Jyoti Kaundal 
 MT2018046
+
+
+
 ![screenshot from 2019-01-24 11-45-38](https://user-images.githubusercontent.com/12882280/51658560-6a615b00-1fce-11e9-8371-a9f69524a693.png)
+
+
+
+
 
 ![screenshot from 2019-01-24 11-57-13](https://user-images.githubusercontent.com/12882280/51658876-4ce0c100-1fcf-11e9-94e8-d61ee6bfd4dd.png)
